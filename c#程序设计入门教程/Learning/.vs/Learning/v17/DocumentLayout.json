@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{67A5EB04-0E6E-4FAC-8529-E209BFC09C03}|Learning.csproj|d:\\csharp\\c-learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67A5EB04-0E6E-4FAC-8529-E209BFC09C03}|Learning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5EB04-0E6E-4FAC-8529-E209BFC09C03}|Learning.csproj|d:\\csharp\\c-learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\learning\\teststringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A5EB04-0E6E-4FAC-8529-E209BFC09C03}|Learning.csproj|solutionrelative:teststringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +34,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "testStringBuilder.cs",
+              "DocumentMoniker": "D:\\Csharp\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\testStringBuilder.cs",
+              "RelativeDocumentMoniker": "testStringBuilder.cs",
+              "ToolTip": "D:\\Csharp\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\testStringBuilder.cs",
+              "RelativeToolTip": "testStringBuilder.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:37:12.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Csharp\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Csharp\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAJAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T14:48:36.745Z",
               "EditorCaption": ""
