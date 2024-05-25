@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{67A5EB04-0E6E-4FAC-8529-E209BFC09C03}|Learning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A5EB04-0E6E-4FAC-8529-E209BFC09C03}|Learning.csproj|d:\\csharp\\c-learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\learning\\teststringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67A5EB04-0E6E-4FAC-8529-E209BFC09C03}|Learning.csproj|D:\\Csharp\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\teststringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67A5EB04-0E6E-4FAC-8529-E209BFC09C03}|Learning.csproj|solutionrelative:teststringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -42,8 +38,7 @@
               "RelativeToolTip": "testStringBuilder.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T15:37:12.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T15:37:12.285Z"
             },
             {
               "$type": "Document",
