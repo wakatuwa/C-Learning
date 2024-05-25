@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Learning
-build_property.ProjectDir = D:\Csharp\C-Learning\c#程序设计入门教程\Learning\
+build_property.ProjectDir = D:\Code\CSharpLearning\C-Learning\c#程序设计入门教程\Learning\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

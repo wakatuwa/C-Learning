@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Csharp\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\",
+  "WorkspaceRootPath": "D:\\Code\\CSharpLearning\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67A5EB04-0E6E-4FAC-8529-E209BFC09C03}|Learning.csproj|d:\\csharp\\c-learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67A5EB04-0E6E-4FAC-8529-E209BFC09C03}|Learning.csproj|d:\\code\\csharplearning\\c-learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\learning\\testdatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A5EB04-0E6E-4FAC-8529-E209BFC09C03}|Learning.csproj|solutionrelative:testdatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5EB04-0E6E-4FAC-8529-E209BFC09C03}|Learning.csproj|D:\\Code\\CSharpLearning\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67A5EB04-0E6E-4FAC-8529-E209BFC09C03}|Learning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67A5EB04-0E6E-4FAC-8529-E209BFC09C03}|Learning.csproj|D:\\Csharp\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\teststringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67A5EB04-0E6E-4FAC-8529-E209BFC09C03}|Learning.csproj|D:\\Code\\CSharpLearning\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\teststringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67A5EB04-0E6E-4FAC-8529-E209BFC09C03}|Learning.csproj|solutionrelative:teststringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,29 +30,46 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "testDateTime.cs",
+              "DocumentMoniker": "D:\\Code\\CSharpLearning\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\testDateTime.cs",
+              "RelativeDocumentMoniker": "testDateTime.cs",
+              "ToolTip": "D:\\Code\\CSharpLearning\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\testDateTime.cs",
+              "RelativeToolTip": "testDateTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:43:14.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "testStringBuilder.cs",
-              "DocumentMoniker": "D:\\Csharp\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\testStringBuilder.cs",
+              "DocumentMoniker": "D:\\Code\\CSharpLearning\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\testStringBuilder.cs",
               "RelativeDocumentMoniker": "testStringBuilder.cs",
-              "ToolTip": "D:\\Csharp\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\testStringBuilder.cs",
+              "ToolTip": "D:\\Code\\CSharpLearning\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\testStringBuilder.cs",
               "RelativeToolTip": "testStringBuilder.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAAeAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAD4vzQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T15:37:12.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Csharp\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\CSharpLearning\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Csharp\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\Program.cs",
+              "ToolTip": "D:\\Code\\CSharpLearning\\C-Learning\\c#\u7A0B\u5E8F\u8BBE\u8BA1\u5165\u95E8\u6559\u7A0B\\Learning\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAwCcAAAAFAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvycAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T14:48:36.745Z",
               "EditorCaption": ""
@@ -56,16 +77,12 @@
           ]
         },
         {
-          "DockedWidth": 148,
+          "DockedWidth": 1536,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
