@@ -36,8 +36,11 @@ namespace Learning
 
             testStringBuilder testStringBuilder = new testStringBuilder();
             //testStringBuilder.testSB();
-            testStringBuilder.test17();
-            testStringBuilder.test18();
+            //testStringBuilder.test17();
+            //testStringBuilder.test18();
+
+            testDateTime testDateTime = new testDateTime();
+            testDateTime.testDT();
         }
     }
 }
