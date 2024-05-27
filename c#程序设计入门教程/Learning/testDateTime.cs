@@ -16,5 +16,30 @@ namespace Learning
             Console.WriteLine("dt2:" + dt2);
             Console.ReadKey();
         }
+
+        //timespan对象用于表示时间间隔
+        public void testTimeSpan()
+        {
+            TimeSpan ts1 = new TimeSpan(1, 2, 3);
+            Console.WriteLine("ts1的时间间隔为：" + ts1);
+            TimeSpan ts2 = new TimeSpan(1, 2, 3, 4, 5);
+            Console.WriteLine("ts2的时间间隔为：" + ts2);
+            Console.ReadKey();
+        }
+
+        public void testDateTimeFunction()
+        {
+            DateTime dt = DateTime.Now;
+            TimeSpan ts = new TimeSpan(1, 0, 0);
+            Console.WriteLine(dt);
+            dt = dt.Add(ts);
+            Console.WriteLine(dt);
+            bool b = dt.Equals(DateTime.Now);
+
+
+            string s  = dt.ToShortTimeString();
+            Console.WriteLine(s);
+            
+        }
     }
 }

@@ -40,7 +40,14 @@ namespace Learning
             //testStringBuilder.test18();
 
             testDateTime testDateTime = new testDateTime();
-            testDateTime.testDT();
+            //testDateTime.testDT();
+            //testDateTime.testTimeSpan();
+            //testDateTime.testDateTimeFunction();
+
+            testRandom testRandom = new testRandom();
+            //testRandom.testRandom1();
+            //stRandom.testRandom2();
+            testRandom.testRandom3();
         }
     }
 }
