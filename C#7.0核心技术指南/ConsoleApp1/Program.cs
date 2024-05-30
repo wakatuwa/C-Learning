@@ -4,8 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(FeetToInches(30));
-            Console.WriteLine(FeetToInches(100));
+            //Console.WriteLine(FeetToInches(30));
+            //Console.WriteLine(FeetToInches(100));
+            Test2 test2 = new Test2();
+            //test2.zhileixing();
+            test2.yinyongleixing();
+
         }
         static int FeetToInches(int feet)
         {
