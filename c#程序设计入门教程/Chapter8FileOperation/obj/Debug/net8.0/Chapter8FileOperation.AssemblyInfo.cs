@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chapter8FileOperation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00e3c2911cfae109632565e9eda787b2992877fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d97e48a3e2e6eb4316a253cce1f69a5178fd3bf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chapter8FileOperation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chapter8FileOperation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
